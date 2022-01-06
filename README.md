@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JoaoCaetanoSr
 - 👀 I’m interested in TI.    
 - 🌱 I’m currently learning java and Python.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on aplications development
 - 📫 How to reach me ...
 
 <!---
